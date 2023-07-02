@@ -1,0 +1,43 @@
+html {
+    padding: 0;
+    height: 150%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    background: aquamarine linear-gradient(green, yellow)
+}
+
+.form-container {
+    position: relative;
+    top: 15%;
+    background-color: wheat;
+    box-shadow: 12px 12px 2px sandybrown;
+    border-radius: 1em;
+
+}
+
+.signupTopic {
+    border-radius: 1em;
+}
+
+input.sameCountry {
+    position: relative;
+    top: 40px;
+}
+label.sameCountry{
+    position: relative;
+    top: 25px;
+}
+#signup_div {
+    margin-bottom: 40px;
+}
+
+#invalide {
+    box-shadow: 12px 12px 2px red;
+    border-radius: 1em;
+}
+
+#form-container {
+}
